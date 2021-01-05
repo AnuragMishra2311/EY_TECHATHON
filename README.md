@@ -20,5 +20,6 @@ Visualization options available
 
 ### Customized Forecasting for +ve Covid-19 Cases in states
 Users can select state for which they want to forecast covid +ve cases.\
-👇👇👇👇👇👇👇
+👇👇👇👇👇👇👇  
+
 ![](visuals/model.gif)
