@@ -13,12 +13,12 @@ Visualization options available
 - State Wise Positive Cases Analysis line plot,
 - State Wise Positive Cases Analysis,
 - State Wise Death Analysis,
-- Population vs positive cases State Wise
+- Population vs positive cases State Wise\
 👇👇👇👇👇👇👇
 
 ![](visuals/eda.gif)
 
 ### Customized Forecasting for +ve Covid-19 Cases in states
-Users can select state for which they want to forecast covid +ve cases.  
+Users can select state for which they want to forecast covid +ve cases.\
 👇👇👇👇👇👇👇
 ![](visuals/model.gif)
