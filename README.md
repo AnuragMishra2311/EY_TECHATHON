@@ -7,4 +7,4 @@
 
 ### Customized Forecasting for +ve Covid-19 Cases in states
 
-![](visuals/model .gif)
+![](visuals/model.gif)
