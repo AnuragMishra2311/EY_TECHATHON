@@ -12,4 +12,5 @@
 ### State Wise Analysis
 ![](Visuals/Media3.gif)
 
-
+### Comparision of states
+![](Visuals/Media5.gif)
