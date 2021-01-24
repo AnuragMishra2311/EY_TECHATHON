@@ -1,0 +1,57 @@
+body            { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+a,h2       { color: #377ba8; }
+h2          { margin: 0; }
+h2              { font-size: 1.2em; }
+
+table.dataframe, .dataframe th, .dataframe td {
+  border: none;
+  border-bottom: 1px solid #C8C8C8;
+  border-collapse: collapse;
+  text-align:left;
+  padding: 10px;
+  margin-bottom: 40px;
+  font-size: 0.9em;
+}
+
+.male th {
+    background-color: #add8e6;
+    color: white;
+}
+
+.state th {
+    background-color: #518ed3;
+    color: white;
+}
+
+tr:nth-child(odd)		{ background-color:#eee; }
+tr:nth-child(even)	{ background-color:#fff; }
+
+tr:hover            { background-color: #9e562d;}
+
+
+.heading{
+  font-size: 17px;
+  color: rgb(14, 28, 223);
+  font-style: italic;
+  }
+  
+  .button {
+    padding: 10px 10px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #1b096b;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #881f11}
+  
+  .button:active {
+    box-shadow: 0 5px rgb(85, 0, 0);
+    transform: translateY(4px);
+  }
+  
